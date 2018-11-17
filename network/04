@@ -1,0 +1,1 @@
+netstat -rn | grep "default" | sed "s/ * /./g" | cut -d '.' -s -f2-5 | sed '2d'
