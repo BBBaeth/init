@@ -1,0 +1,1 @@
+il s'agit du fichier .ssh/authorized_keys comme indique dans le fichier /etc/ssh/sshd_config. Il peut egalement y avoir un fichier .ssh/authorized_keys2
