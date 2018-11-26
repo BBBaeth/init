@@ -1,0 +1,2 @@
+la commande su - (nom de l'utilisateur) permet de changer d'utilisateur depuis le terminal
+pour se connecter en ssh il faudra faire la commande ssh suivie par le hostname
