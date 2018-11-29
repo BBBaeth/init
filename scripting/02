@@ -1,1 +1,1 @@
-userdel -f toto
+userdel -f $1
