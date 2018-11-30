@@ -1,14 +1,12 @@
-echo "operating system"
+echo "operating system:"
 uname -o
-echo "\nkernel:"
+echo "kernel:"
 uname -s
-echo "\nnodename:"
+echo "nodename:"
 uname -n
-echo "\nkernel release:"
+echo "kernel release:"
 uname -r
-echo "\nkernel version:"
+echo "kernel version:"
 uname -v
-echo "\nhardware:"
+echo "hardware:"
 uname -m
-echo "\nprocessor type:"
-uname -p
