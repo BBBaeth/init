@@ -1,1 +1,14 @@
-uname -a
+echo "operating system"
+uname -o
+echo "\nkernel:"
+uname -s
+echo "\nnodename:"
+uname -n
+echo "\nkernel release:"
+uname -r
+echo "\nkernel version:"
+uname -v
+echo "\nhardware:"
+uname -m
+echo "\nprocessor type:"
+uname -p

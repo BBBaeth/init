@@ -1,1 +1,1 @@
-hostname new_host_name
+hostname $1
