@@ -1,0 +1,12 @@
+echo "::operating system:"
+uname -o
+echo "::kernel:"
+uname -s
+echo "::nodename:"
+uname -n
+echo "::kernel release:"
+uname -r
+echo "::kernel version:"
+uname -v
+echo "::hardware:"
+uname -m
